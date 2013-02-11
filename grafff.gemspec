@@ -57,3 +57,4 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<httparty>, [">= 0"])
   end
 end
+
